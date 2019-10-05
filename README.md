@@ -4,10 +4,10 @@ To use this boilerplate, either clone it using `git clone`, download it as ZIP o
 
 The following are configured:
 
-- Yarn
 - TypeScript
+- Yarn
 - Jest
-- CircleCI
+- GitHub Actions CI
 
 And the following scripts:
 
