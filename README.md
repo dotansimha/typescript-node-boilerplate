@@ -1,5 +1,7 @@
 # TypeScript NodeJS Boilerplate
 
+To use this boilerplate, either clone it using `git clone`, download it as ZIP or use [GitHub Repository Import](https://github.com/new/import).
+
 The following are configured:
 
 - Yarn
